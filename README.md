@@ -1,4 +1,4 @@
-# Hack in the Google Cloud with FTL 
+# Welcome to the Hack in the Google Cloud FTL Hackathon
 
 
 # Join the Slack group!
